@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+bin/
+get_token.py
+lib/
+pyvenv.cfg
