@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 class Backup:
     URL_TO_GET_PHOTOS = ('https://api.vk.com/method/photos.get')
-    access_token_vk = ''
+    access_token_vk = '<Сервисный ключ доступа приложения>'
 
     def __init__(self, token_ya_disk, vk_id):
         self.token_ya_disk = token_ya_disk
